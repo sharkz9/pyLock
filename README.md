@@ -4,7 +4,7 @@ PyLock is a Python file encryption graphical user interface (GUI) that allows yo
 
 ## Installation
 
-To use PyLock, you will need to have Python 3 and the following packages installed:
+To use PyLock, you will need to have Python 3.x and the following packages installed:
 
 -   `tkinter`
 -   `pycryptodome`
@@ -17,9 +17,7 @@ Copy code
 
 ## Usage
 
-To use PyLock, simply run the `pylock.py` file using Python 3:
-
-Copy code
+To use PyLock, simply run the `pylock.py` file using Python:
 
 `python pylock.py` 
 
