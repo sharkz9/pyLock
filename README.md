@@ -23,9 +23,9 @@ To encrypt a file, click the "Generate Key" button to generate a random 256-bit 
 
 To decrypt a file, select the encrypted file, enter the encryption key into the "Enter encryption key" field, and click the "Decrypt" button. The decrypted file will be saved in the same directory as the encrypted file with the original file extension.
 
-### Design
+## Design
 
-https://i.imgur.com/PLzINOF.png
+![PyLock](https://i.imgur.com/DokTV51.png)
 
 ## To be added
 
