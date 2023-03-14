@@ -25,7 +25,7 @@ To decrypt a file, select the encrypted file, enter the encryption key into the 
 
 ## Design
 
-![PyLock](https://i.imgur.com/DokTV51.png)
+![PyLock](https://i.imgur.com/PLzINOF.png)
 
 ## To be added
 
