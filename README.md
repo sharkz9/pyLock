@@ -15,9 +15,7 @@ You can install the required packages by running the following command:
 
 ## Usage
 
-To use PyLock, simply run the `pylock.py` file using Python:
-
-`python pylock.py` 
+To use PyLock, simply run the `main.py` file.
 
 Once the GUI is running, you can select a file to encrypt or decrypt by clicking the "Browse Files" button and selecting a file from your file system.
 
