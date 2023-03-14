@@ -22,3 +22,9 @@ Once the GUI is running, you can select a file to encrypt or decrypt by clicking
 To encrypt a file, click the "Generate Key" button to generate a random 256-bit encryption key, enter the key into the "Enter encryption key" field, and click the "Encrypt" button. The encrypted file will be saved with the extension `.enc` in the same directory as the original file.
 
 To decrypt a file, select the encrypted file, enter the encryption key into the "Enter encryption key" field, and click the "Decrypt" button. The decrypted file will be saved in the same directory as the encrypted file with the original file extension.
+
+## To be added
+
+- Drag and drop functionality
+- more features
+- ...
