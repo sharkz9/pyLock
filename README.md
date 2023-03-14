@@ -11,8 +11,6 @@ To use PyLock, you will need to have Python 3.x and the following packages insta
 
 You can install the required packages by running the following command:
 
-Copy code
-
 `pip install tkinter pycryptodome` 
 
 ## Usage
